@@ -1,6 +1,8 @@
 # Fotomatic
 
-In this project, I fixed a broken version of a responsive website called Fotomatic. I was provided with specs and a working version of the final product to help guide me in making the necessary adjustments to the broken code. To debug and update the site's CSS, I used the skills and tools acquired from the CodeCademy.com courses.
+In this project, I fixed a broken version of a responsive website called Fotomatic. I was provided with specs and a working version of the final product to help guide me in making the necessary adjustments to the broken code. To debug and update the site's CSS, I used the skills and tools acquired from the Codecademy.com courses.
+
+*The project set up is offered by:* [Codecademy](https://www.codecademy.com/catalog)
 
 I am now happy to say that the project is complete and the website is fully functional and responsive. 
 
